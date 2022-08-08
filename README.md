@@ -5,6 +5,8 @@ Syllabus -:
 ![image](https://user-images.githubusercontent.com/59536110/179950217-03942d1c-7058-4d39-aa71-386815c85882.png)
 
 Imp Ques 
+![image](https://user-images.githubusercontent.com/59536110/183392919-74e60933-56f5-46b0-aac5-87ffe97b12fa.png)
+
 
 ![image](https://user-images.githubusercontent.com/59536110/181275844-35f046eb-7ecf-4cb2-b841-cec48fbec3d9.png)
 ![image](https://user-images.githubusercontent.com/59536110/181275978-a0b8b1a3-4278-49eb-93ca-8b968d8a5861.png)
