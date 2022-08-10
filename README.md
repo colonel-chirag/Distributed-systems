@@ -1,5 +1,12 @@
 # Distributed-systems
 
+
+Semester exam 2022-
+
+![IMG_20220810_133250](https://user-images.githubusercontent.com/93399136/183848543-cf639499-a001-4761-8edc-5973d5c7b6bd.jpg)
+![IMG20220810133208](https://user-images.githubusercontent.com/93399136/183848619-b08f5d75-f582-4a67-8732-68bedc7bcbd8.jpg)
+
+
 Syllabus -:
 
 ![image](https://user-images.githubusercontent.com/59536110/179950217-03942d1c-7058-4d39-aa71-386815c85882.png)
